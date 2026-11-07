@@ -1,0 +1,290 @@
+{
+ "source": "https://cedwyn.bucklerfamily.estate/api/catalogue",
+ "note": "This webapp's own data store: the central-catalogue fields for the record IDs cited in public/data/*.json, public/index.html, public/v2/index.html. Derived and read-only; never edit by hand (tools/sync_central.py rewrites it).",
+ "fields": [
+  "id",
+  "kind",
+  "title",
+  "date_display",
+  "date_sort",
+  "status",
+  "page"
+ ],
+ "synced_utc": "2026-11-07T20:01:09Z",
+ "count": 29,
+ "not_in_central": [
+  "EV-0244",
+  "EV-0245",
+  "EV-0249",
+  "EV-0263",
+  "EV-0265",
+  "EV-0272",
+  "EV-0275",
+  "EV-0277",
+  "EV-0287",
+  "EV-0293"
+ ],
+ "items": {
+  "EV-0006": {
+   "id": "EV-0006",
+   "kind": "evidence",
+   "title": "1877 Bute–Daniel Thomas & Son agreement (sale or quarry lease of house parcel)",
+   "date_display": "1877",
+   "date_sort": "1877-00-00",
+   "status": "PENDING",
+   "page": "/research/evidence/ev-0006-bute-thomas-agreement-1877/"
+  },
+  "EV-0008": {
+   "id": "EV-0008",
+   "kind": "evidence",
+   "title": "Reported lease of 6 November 1877 to John Williams (original unlocated)",
+   "date_display": "6 November 1877 (as reported in Mary Williams's later account; matching instrument not identified)",
+   "date_sort": "1877-11-06",
+   "status": "PENDING",
+   "page": null
+  },
+  "EV-0013": {
+   "id": "EV-0013",
+   "kind": "evidence",
+   "title": "Bute conveyance of 23 February 1905 referred to on the WA231076 file",
+   "date_display": "23 February 1905",
+   "date_sort": "1905-02-23",
+   "status": "PENDING",
+   "page": null
+  },
+  "EV-0014": {
+   "id": "EV-0014",
+   "kind": "evidence",
+   "title": "Bute yearly agricultural tenancy to John Williams, with plan",
+   "date_display": "February 1916",
+   "date_sort": "1916-02-00",
+   "status": "PENDING",
+   "page": "/research/evidence/ev-0014-bute-tenancy-john-williams-1916/"
+  },
+  "EV-0019": {
+   "id": "EV-0019",
+   "kind": "evidence",
+   "title": "Bute Estate to Western Ground Rents Ltd conveyance of reversion, with plan",
+   "date_display": "1938",
+   "date_sort": "1938-00-00",
+   "status": "PENDING",
+   "page": "/research/evidence/ev-0019-bute-wgr-conveyance-plan-1938/"
+  },
+  "EV-0020": {
+   "id": "EV-0020",
+   "kind": "evidence",
+   "title": "Western Ground Rents rental books and plan book (D696), c.1938–1944",
+   "date_display": "c.1938–1944",
+   "date_sort": "1938-00-00",
+   "status": "PENDING",
+   "page": null
+  },
+  "EV-0022": {
+   "id": "EV-0022",
+   "kind": "evidence",
+   "title": "Press reports of completion of Bute (Mountjoy) sale of Cardiff ground rents to Western Ground Rents",
+   "date_display": "24 December 1938 (reports); completion 23 December 1938",
+   "date_sort": "1938-12-24",
+   "status": "PENDING",
+   "page": "/research/evidence/ev-0022-press-1938-bute-wgr-sale-completion/"
+  },
+  "EV-0023": {
+   "id": "EV-0023",
+   "kind": "evidence",
+   "title": "DBDT123/7 — 1939 agreement, Western Ground Rents to John Williams, with plan",
+   "date_display": "May 1939",
+   "date_sort": "1939-05-00",
+   "status": "PARTLY HELD",
+   "page": "/research/evidence/ev-0023-1939-wgr-john-williams-tenancy-plan/"
+  },
+  "EV-0025": {
+   "id": "EV-0025",
+   "kind": "evidence",
+   "title": "Surrender and re-grant of Frederick Buckler's yearly tenancy (unwritten; no written record)",
+   "date_display": "2 February 1949",
+   "date_sort": "1949-02-02",
+   "status": "PENDING",
+   "page": "/research/evidence/ev-0025-frederick-buckler-unwritten-tenancy-1949/"
+  },
+  "EV-0032": {
+   "id": "EV-0032",
+   "kind": "evidence",
+   "title": "1955 Order 14 possession order against Frederick Buckler (not yet located)",
+   "date_display": "1955 (exact date to be confirmed)",
+   "date_sort": "1955-00-00",
+   "status": "PENDING",
+   "page": "/research/evidence/ev-0032-1955-order-14-possession-order/"
+  },
+  "EV-0034": {
+   "id": "EV-0034",
+   "kind": "evidence",
+   "title": "Writ or warrant of possession, execution record and officer's return",
+   "date_display": "on or about 4 July 1955",
+   "date_sort": "1955-07-04",
+   "status": "PENDING",
+   "page": "/research/evidence/ev-0034-writ-possession-execution-return-1955/"
+  },
+  "EV-0042": {
+   "id": "EV-0042",
+   "kind": "evidence",
+   "title": "Conveyance 11 Jun 1965: Lakeside & Llandough Development Co / WGR → Glamorgan CC (Llandough school site)",
+   "date_display": "11 Jun 1965",
+   "date_sort": "1965-06-11",
+   "status": "HELD",
+   "page": null
+  },
+  "EV-0044": {
+   "id": "EV-0044",
+   "kind": "evidence",
+   "title": "VG41 village-green registration: register entry, map and ownership section",
+   "date_display": "16 June 1970",
+   "date_sort": "1970-06-16",
+   "status": "PENDING",
+   "page": "/research/evidence/ev-0044-vg41-village-green-registration-1970/"
+  },
+  "EV-0045": {
+   "id": "EV-0045",
+   "kind": "evidence",
+   "title": "Abstract of Title, 1971 (BP Pension Trust) — Known Only from Recitals",
+   "date_display": "1971",
+   "date_sort": "1971-00-00",
+   "status": "PENDING",
+   "page": "/research/evidence/ev-0045-1971-abstract-title-bp-pension/"
+  },
+  "EV-0049": {
+   "id": "EV-0049",
+   "kind": "evidence",
+   "title": "Mary Williams's plea of ownership in BP Pension Trust's 1974 county-court action",
+   "date_display": "3 July 1974 and the 1974 proceedings",
+   "date_sort": "1974-07-03",
+   "status": "PENDING",
+   "page": "/research/evidence/ev-0049-mary-williams-plea-ownership-pleadings/"
+  },
+  "EV-0057": {
+   "id": "EV-0057",
+   "kind": "evidence",
+   "title": "Hansard: Ted Rowlands MP criticises Western Ground Rents and BP pension fund",
+   "date_display": "22 May 1980",
+   "date_sort": "1980-05-22",
+   "status": "HELD",
+   "page": null
+  },
+  "EV-0094": {
+   "id": "EV-0094",
+   "kind": "evidence",
+   "title": "Cadw barn survey photograph, 1988 (disclosed 11 June 2026)",
+   "date_display": "29 July 1988",
+   "date_sort": "1988-07-29",
+   "status": "HELD",
+   "page": "/research/evidence/ev-0094-cadw-barn-survey-photo-1988/"
+  },
+  "EV-0095": {
+   "id": "EV-0095",
+   "kind": "evidence",
+   "title": "Cadw farmhouse survey photograph, 29 July 1988 (disclosed 11 June 2026)",
+   "date_display": "29 July 1988",
+   "date_sort": "1988-07-29",
+   "status": "HELD",
+   "page": "/research/evidence/ev-0095-cadw-farmhouse-survey-photo-1988/"
+  },
+  "EV-0118": {
+   "id": "EV-0118",
+   "kind": "evidence",
+   "title": "Sites and Monuments Record card PRN 02038s: “building destroyed by owners”",
+   "date_display": "March 1989",
+   "date_sort": "1989-03-00",
+   "status": "HELD-ONLINE",
+   "page": null
+  },
+  "EV-0122": {
+   "id": "EV-0122",
+   "kind": "evidence",
+   "title": "European Commission of Human Rights application 14464/88 and inadmissibility decision",
+   "date_display": "lodged 3 May 1988; registered 12 December 1988; declared inadmissible 14 April 1989",
+   "date_sort": "1989-04-14",
+   "status": "HELD",
+   "page": "/research/evidence/ev-0122-echr-application-14464-88-inadmissibility/"
+  },
+  "EV-0124": {
+   "id": "EV-0124",
+   "kind": "evidence",
+   "title": "Outline planning permission 89/01396/OUT – residential development, Great House Farm, Leckwith Road",
+   "date_display": "Application received 8th November 1989 (decision/issue date not visible on pages 1–2)",
+   "date_sort": "1989-11-08",
+   "status": "HELD",
+   "page": "/research/evidence/ev-0124-outline-planning-permission-89-01396-out-residenti/"
+  },
+  "EV-0129": {
+   "id": "EV-0129",
+   "kind": "evidence",
+   "title": "Approved planning drawings 92/00671/RES: screen wall detail, site location plan, Llandough",
+   "date_display": "3 SEP 1992 (approval stamp); screen wall drawing dated 'July 88' (reading uncertain)",
+   "date_sort": "1992-09-03",
+   "status": "HELD",
+   "page": null
+  },
+  "EV-0133": {
+   "id": "EV-0133",
+   "kind": "evidence",
+   "title": "Ideal Homes Wales, Llandough Farm – site location map and Village Green planting plan",
+   "date_display": "Received stamp 12 JAN 1994 (Planning and Development); location map bears an earlier Borough planning stamp, partly legible as '3 SEP 199?'",
+   "date_sort": "1994-01-12",
+   "status": "HELD",
+   "page": null
+  },
+  "EV-0147": {
+   "id": "EV-0147",
+   "kind": "evidence",
+   "title": "HM Land Registry letter on registration history of Tŷ Mawr Farm",
+   "date_display": "23 March 2026",
+   "date_sort": "2026-03-23",
+   "status": "HELD",
+   "page": null
+  },
+  "EV-0148": {
+   "id": "EV-0148",
+   "kind": "evidence",
+   "title": "HM Land Registry FOI Response F260213 (13 April 2026)",
+   "date_display": "13 April 2026",
+   "date_sort": "2026-04-13",
+   "status": "HELD",
+   "page": null
+  },
+  "EV-0153": {
+   "id": "EV-0153",
+   "kind": "evidence",
+   "title": "HM Land Registry stage-two complaint decision",
+   "date_display": "25 May 2026 (date shown by file title)",
+   "date_sort": "2026-05-25",
+   "status": "HELD",
+   "page": null
+  },
+  "EV-0159": {
+   "id": "EV-0159",
+   "kind": "evidence",
+   "title": "South Wales Police response to FOI request 719/26",
+   "date_display": "16 July 2026",
+   "date_sort": "2026-07-16",
+   "status": "HELD",
+   "page": null
+  },
+  "EV-0214": {
+   "id": "EV-0214",
+   "kind": "evidence",
+   "title": "Llandough Community Council minutes, 1987: Great House Farm right of way, VG41, BP’s agents",
+   "date_display": "1987",
+   "date_sort": "1987-00-00",
+   "status": "HELD",
+   "page": null
+  },
+  "EV-0216": {
+   "id": "EV-0216",
+   "kind": "evidence",
+   "title": "1965 contract, condition F: root of title \"a Conveyance on sale dated 25th December 1938\"",
+   "date_display": "1965",
+   "date_sort": "1965",
+   "status": "HELD",
+   "page": "/research/evidence/ev-0216-1965-contract-condition-f-conveyance-25-december-1938/"
+  }
+ }
+}
