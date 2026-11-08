@@ -10,20 +10,9 @@
   "status",
   "page"
  ],
- "synced_utc": "2026-11-07T20:01:09Z",
- "count": 29,
- "not_in_central": [
-  "EV-0244",
-  "EV-0245",
-  "EV-0249",
-  "EV-0263",
-  "EV-0265",
-  "EV-0272",
-  "EV-0275",
-  "EV-0277",
-  "EV-0287",
-  "EV-0293"
- ],
+ "synced_utc": "2026-11-08T05:51:36Z",
+ "count": 39,
+ "not_in_central": [],
  "items": {
   "EV-0006": {
    "id": "EV-0006",
@@ -285,6 +274,96 @@
    "date_sort": "1965",
    "status": "HELD",
    "page": "/research/evidence/ev-0216-1965-contract-condition-f-conveyance-25-december-1938/"
+  },
+  "EV-0244": {
+   "id": "EV-0244",
+   "kind": "evidence",
+   "title": "Welsh Government ATISN 26-0010 disclosure response: retention and destruction schedules; searches under the farm name, Western Ground Rents Ltd and BP Properties Ltd",
+   "date_display": "19 October 2026 (emailed 10:25 BST)",
+   "date_sort": "2026-10-19",
+   "status": "HELD — open the letter (PDF, Wayback archive). Public copy: the requester’s personal email address is redacted; nothing else is changed.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0244-welsh-government-atisn-26-0010-disclosure-response-19-oct-2026/"
+  },
+  "EV-0245": {
+   "id": "EV-0245",
+   "kind": "evidence",
+   "title": "Cadw / Welsh Government ATISN 27589 response (ref qA2496208): request for July–December 1988 listing papers refused under FOIA s.14(2)",
+   "date_display": "19 October 2026 (emailed 14:26 BST)",
+   "date_sort": "2026-10-19",
+   "status": "HELD — open the letter (PDF, Wayback archive). Public copy: the requester’s personal email address is redacted; nothing else is changed.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0245-cadw-atisn-27589-response-s14-2-19-oct-2026/"
+  },
+  "EV-0249": {
+   "id": "EV-0249",
+   "kind": "evidence",
+   "title": "London Gazette, 3 July 1996 (Issue 54455, p. 8982): Western Ground Rents Ltd (no. 342092) placed in members’ voluntary liquidation with four BP companies, registered office BP House",
+   "date_display": "3 July 1996 (liquidator appointed 26 June 1996)",
+   "date_sort": "1996-07-03",
+   "status": "HELD (public online copy; read 19 Oct 2026)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0249-london-gazette-3-jul-1996-western-ground-rents-bp-group-liquidation/"
+  },
+  "EV-0263": {
+   "id": "EV-0263",
+   "kind": "evidence",
+   "title": "Commons Registration Act 1965 s.5 and SI 1968/989: registrations were publicised by public notice only; Glamorgan County Council’s London Gazette notices of 22 October 1968 and 24 October 1969; second objection period for VG41 ran 1 May 1970 – 31 July 1972",
+   "date_display": "1968–1972 (objection period ended 31 July 1972)",
+   "date_sort": "1972-07-31",
+   "status": "HELD (texts read 19 Oct 2026); the 1970 Glamorgan second-period notice listing VG41 NOT FOUND (Gazette OCR)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0263-commons-registration-1965-publicity-glamorgan-notices-vg41/"
+  },
+  "EV-0265": {
+   "id": "EV-0265",
+   "kind": "evidence",
+   "title": "Registration background: compulsory registration of title began in the Vale of Glamorgan on 1 December 1975 (SI 1975/160); the solicitor’s certificate on first registration (LRR 1925 r.29; 1989 text); the HMLR “about to be registered” Gazette notices ran only to about May 1975",
+   "date_display": "1 December 1975 (compulsory registration)",
+   "date_sort": "1975-12-01",
+   "status": "HELD (texts read 16–19 Oct 2026); the 1983 Form 1C and r.29 wording as used in Feb 1983 NOT SEEN",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0265-hmlr-registration-background-compulsory-1975-r29-certificate/"
+  },
+  "EV-0272": {
+   "id": "EV-0272",
+   "kind": "evidence",
+   "title": "Cadw listed-building records 13430, 13431, 13432: the Llandough community resurvey list was issued on 6 April 1989 (church 4 June 1989), after the December 1988 demolition",
+   "date_display": "6 April 1989 (designation dates); survey 1988",
+   "date_sort": "1989-04-06",
+   "status": "HELD (public record, read 20 Oct 2026)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0272-cadw-1989-llandough-resurvey-list-13430-13431-13432/"
+  },
+  "EV-0275": {
+   "id": "EV-0275",
+   "kind": "evidence",
+   "title": "London Gazette, 30 October 1990, 22 October 1991 and 20 June 1997: Welsh Office proposals to stop up parts of Old Barry Road, Llandough under s.247 TCPA 1990 for residential development (refs ZC 510-5-7-10 and ZC510-5-72-2)",
+   "date_display": "30 October 1990; 22 October 1991; 20 June 1997",
+   "date_sort": "1990-10-30",
+   "status": "HELD (notices read 20 Oct 2026)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0275-london-gazette-old-barry-road-llandough-stopping-up-1990-1991-1997/"
+  },
+  "EV-0277": {
+   "id": "EV-0277",
+   "kind": "evidence",
+   "title": "London Gazette, 3 July 1996 (p.8990) and 18 April 1997 (p.4683): Western Ground Rents Ltd’s members’ voluntary winding-up: notice to creditors (“All known Creditors have been or will be paid in full”) and final meetings on 16 May 1997 to lay an account of how “the property of the Companies have been disposed of”",
+   "date_display": "26 June 1996 (notice); 16 May 1997 (final meetings)",
+   "date_sort": "1996-06-26",
+   "status": "HELD (notices read 20 Oct 2026)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0277-london-gazette-1996-1997-western-ground-rents-creditors-and-final-meetings/"
+  },
+  "EV-0287": {
+   "id": "EV-0287",
+   "kind": "evidence",
+   "title": "London Gazette, 31 October 1958 (Issue 41537), p.6652: Ministry of Housing and Local Government (Welsh Office) notice, 27 October 1958, of intention to lay before Parliament “the City of Cardiff (Leckwith Common) Compulsory Purchase Order, 1957, confirmed by him on the 8th September 1958, under section 5 of the Physical Training and Recreation Act, 1937” (Statutory Orders (Special Procedure) Act, 1945)",
+   "date_display": "27 October 1958 (notice); 31 October 1958 (publication); order confirmed 8 September 1958",
+   "date_sort": "1958-10-27",
+   "status": "HELD (notice read 21 Oct 2026)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0287-london-gazette-31-oct-1958-p-6652-the-city-of-cardiff-leckwith-common-compulsory-p/"
+  },
+  "EV-0293": {
+   "id": "EV-0293",
+   "kind": "evidence",
+   "title": "The 1994 excavation north of St Dochdwy’s: the HER records, the published report, the Museum Wales accession and Burial 631",
+   "date_display": "1994 (excavation); 28 Jul 1994 (donation); 2005 (published report); 2 May 2007 (museum article); HER record compiled 12 Mar 2004, updated 24 Aug 2024",
+   "date_sort": "1994-07-28",
+   "status": "HELD (public online records, read 21 Oct 2026). Cotswold Archaeological Trust Report 94213 and the 2005 full text: see the Archaeology and Heritage page.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0293-llandough-1994-cemetery-excavation-her-ggat02272s-museum-wales-95-56h-burial-631/"
   }
  }
 }
