@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-GB">
+<html lang="en-GB" class="tp" data-ghf-native="dark">
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
@@ -11,26 +11,25 @@
 <meta property="og:description" content="The legal record in date order, plain text."/>
 <meta property="og:type" content="website"/><meta property="og:url" content="https://csscpsg.bucklerfamily.estate/"/>
 <script>if(location.hostname.indexOf('csscpsgp.')===0){location.replace('https://csscpsg.bucklerfamily.estate'+location.pathname+location.search+location.hash)}</script>
+<link rel="stylesheet" href="assets/text-page.css?v=1.0.0"/>
 <style>
-:root{--bg:#fff;--fg:#111;--red:#c40000;--mut:#666}
-@media (prefers-color-scheme:dark){:root{--bg:#0d0d0d;--fg:#e6e6e6;--red:#ff6b6b;--mut:#999}}
-html,body{margin:0;background:var(--bg);color:var(--fg)}
-main{max-width:100%;overflow:hidden}
-pre#doc{white-space:pre;overflow-x:auto;margin:0;padding:12px 12px 40px;font:13px/1.55 ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;tab-size:4;-webkit-text-size-adjust:100%}
-pre#doc a,dialog a{color:inherit;font:inherit;letter-spacing:normal}
-.l{display:inline}
-.r{color:var(--red);cursor:pointer}
-.r:focus{outline:1px dotted var(--red)}
-dialog{max-width:min(680px,94vw);width:94vw;border:1px solid var(--fg);background:var(--bg);color:var(--fg);padding:0;font:13px/1.55 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
-dialog::backdrop{background:rgba(0,0,0,.55)}
-dialog pre{white-space:pre-wrap;word-break:break-word;margin:0;padding:14px;max-height:70vh;overflow:auto;font:inherit}
-dialog button{font:inherit;margin:0 14px 14px;padding:6px 12px;background:var(--bg);color:var(--fg);border:1px solid var(--fg);cursor:pointer}
+/* csscpsg on the Cedwyn text-page standard v1.0.0 (assets/text-page.css): presentation only; lines, IDs, data and links unchanged. */
+pre#doc{white-space:normal;margin:0;padding:0;background:none;border:0;font:inherit;color:var(--tp-muted);font-size:.95rem;overflow:visible}
+pre#doc .l{display:block;padding:.75rem 0 .75rem .9rem;border-left:2px solid transparent;border-bottom:1px solid var(--tp-line);color:var(--tp-body);font-size:1.03rem;line-height:1.55;overflow-wrap:anywhere}
+pre#doc .l:first-of-type{margin-top:1.6rem;border-top:1px solid var(--tp-line)}
+pre#doc .r{color:var(--tp-hi);border-left-color:var(--tp-hi);cursor:pointer}
+pre#doc .r:hover{background:rgba(255,255,255,.03)}
+pre#doc .r:focus-visible{outline:2px solid #fff;outline-offset:2px}
+pre#doc a,dialog a{font:inherit}
+@media (max-width:640px){pre#doc .l{font-size:1rem}}
 </style>
 <script src="https://bucklerfamily.estate/ghf-lang/ghf-boot.js?v=2.0.3"></script>
 <script src="https://research.bucklerfamily.estate/estate-tour.js?v=20261024" defer data-estate-tour-loader></script>
 </head>
 <body>
 <main>
+<div class="tp-hero"><div class="tp-hero-in"><p class="tp-kicker">csscpsg · Great House Farm (Tŷ Mawr), Llandough</p><h1>The legal chronology</h1><p class="tp-meta">Every instrument, order, registration and request in date order · red lines breach rules S1–S6</p></div></div>
+<div class="tp-article"><div class="tp-content">
 <pre id="doc">.. csscpsg chronology :: Great House Farm (Tŷ Mawr), Llandough :: 148 items :: 1824 .. 20 Oct 2026 :: 40 red = not compliant with S1–S6 (tap)
 
 <span class="l" id="C0001">- C0001 1824       | 1824 | Survey of the Bute estates, plan 19 “Cedfin or Ty Mawr Farm”, 139a 3r 8p | Glamorgan Archives DB/E/1 | <a href="https://greathousefarmwiki.wordpress.com/" rel="noopener">Glamorgan Archives DB/E/1; Legal Wiki, Master Timeline (page 33)</a></span>
@@ -235,6 +234,7 @@ dialog button{font:inherit;margin:0 14px 14px;padding:6px 12px;background:var(--
 :S6: Inconsistency: dates, years or descriptions conflict between records of the same act
 
 .. data: /data/chronology.json :: rule set: /data/model.json v1.0.0 :: earlier view: /v2/</pre>
+</div></div>
 </main>
 <dialog id="m" aria-label="Breach"><pre id="mt"></pre><button type="button" id="mc">close</button></dialog>
 <script>
